@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+ }
+
+#root {
+position: relative;
+top: 50%;
+  width: 800px;
+  margin: 0 auto;
+}
+.btn{
+    margin-left: 10px;
+}
+.goals{
+    background-color: #E6E6E6;
+}
